@@ -1,7 +1,7 @@
 ---
 Title: "Macropad"
 Author: "Aleesha Abdullah"
-Description: "Hackpad (Macropad Build)"
+Description: "Hackpad (Macropad)"
 created_at: "2025-06-04"
 ---
 
