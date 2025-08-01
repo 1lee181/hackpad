@@ -9,12 +9,13 @@ This is my build journal and hardware design repo for the **[Hack Club Hackpad](
 
 | Qty | Name                       |
 | --- | -------------------------- |
+| 1   | Case top + bottom          |
 | 1   | PCB                        |
 | 1   | Seeed Studio XIAO RP2040   |
-| 1   | 128x32 I2C OLED Screen     |
-| 5   | Cherry MX Switches         |
-| 1   | EC11 Rotary Encoder + Knob |
-| 4   | M3x16mm Screws             |
-| 4   | M3 Heatset                 |
-| 5   | Blank DSA White Keycaps    |
-| 1   | Case Top and Bottom        |
+| 1   | 128x32 I2C OLED screen     |
+| 5   | SK6812MINI-E LEDs          |
+| 5   | Cherry MX-style switches   |
+| 5   | Blank DSA white keycaps    |
+| 1   | EC11 rotary encoder + knob |
+| 4   | M3x16mm screws             |
+| 4   | M3x5mx4mm heatset inserts  |
