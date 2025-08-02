@@ -27,3 +27,7 @@ This is my build journal and hardware design repo for the **[Hack Club Hackpad](
 | 1   | EC11 rotary encoder + knob |
 | 4   | M3x16mm screws             |
 | 4   | M3x5mx4mm heatset inserts  |
+
+## Credits
+
+(To be added).
