@@ -10,5 +10,5 @@ created_at: "2025-06-04"
 - Watched how-to-KiCad tutorials on YouTube
 - Read keyboard design articles online
 
-# June 4, 2025 (2.5 Hours)
-- 
+# ???
+- To be continued
