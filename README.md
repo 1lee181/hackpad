@@ -5,6 +5,12 @@ This is my build journal and hardware design repo for the **[Hack Club Hackpad](
 ### Schematic
 ![Schematic](Assets/schematic.png)
 
+### PCB
+![pcb](Assets/pcb.png)
+
+### Case
+![case](Assets/case.png)
+
 ## Bill of Materials (BOM)
 
 | Qty | Name                       |
